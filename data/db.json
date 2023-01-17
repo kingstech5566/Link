@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "Why do we use it?/nlt is a long establised fact that the use will be distracted",
+            "author": "kingsley",
+            "id": 1
+        },
+        {
+            "title": "Opening party",
+            "body": "Why do we use it?/nlt is a long establised fact that the use will be distracted",
+            "author": "chijioke",
+            "id": 2
+        }
+    ]
+}
